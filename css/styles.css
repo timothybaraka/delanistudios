@@ -1,0 +1,10 @@
+.home{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom:100px ;
+    background-image: url("../img/backgrounds/h_img.jpg");
+    color:white;
+    position: relative;
+    background-size: cover;
+    font-size: 30px;
+}
