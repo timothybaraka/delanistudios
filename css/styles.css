@@ -1,4 +1,4 @@
-.home{
+.background1{
     text-align: center;
     padding-top: 100px;
     padding-bottom:100px ;
@@ -7,4 +7,21 @@
     position: relative;
     background-size: cover;
     font-size: 30px;
+}
+.para1{
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.para1 h2{
+       text-align:center;
+}
+.para1 p{
+    text-align: center;
+}
+.background2{
+    background-image:url("../img/backgrounds/s_image.jpg");
+    color:white;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom:100px ;
 }
