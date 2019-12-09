@@ -54,3 +54,13 @@
     /* margin: 20px; */
 
 } 
+.background3{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom:280px ;
+    background-image: url("../img/backgrounds/c_image.jpg");
+    color:white;
+    position: relative;
+    background-size: cover;
+    font-size: 20px;
+}
