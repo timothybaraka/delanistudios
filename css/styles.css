@@ -84,3 +84,17 @@
     text-align: center;
     scroll-padding-top: 20px;
 }
+#mce-EMAIL{
+    width:25%;
+    background-position-x: right;
+    height:50px;
+}
+#mce-NAME{
+    width:25%;
+    height:50px;
+}
+#mce-MESSAGE{
+    height:250px;
+    width:600px;
+
+}
