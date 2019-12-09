@@ -45,6 +45,10 @@
 .icons{
     padding-right: 200px;
 }
+#des{
+    display: none;
+    text-align: center;
+}
 #portfolio{
     text-align: center;
 }
