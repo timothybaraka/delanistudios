@@ -1,6 +1,6 @@
 $(document).ready(function(){
-    $("#img1").click(function(){
-        prompt()
+    $("#subscribe").click(function(){
+        prompt("we have received your message thank you for reaching out to us");
     });
 });
 
