@@ -64,3 +64,15 @@
     background-size: cover;
     font-size: 20px;
 }
+#textarea{
+    border:2px solid black;
+    width:800px;
+    height:200px;
+    
+    padding-top: 10%;
+}
+::placeholder{
+    color:red;
+    position: top;
+    
+}
