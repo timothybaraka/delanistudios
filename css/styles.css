@@ -1,3 +1,7 @@
+#titleicon{
+    color:black;
+    background:black;
+}
 .background1{
     text-align: center;
     padding-top: 100px;
@@ -6,7 +10,7 @@
     color:white;
     position: relative;
     background-size: cover;
-    font-size: 30px;
+    
 }
 .para1{
     padding-top:50px;
@@ -29,6 +33,10 @@
     text-align:center;
     padding-top:40px;
     scroll-padding-bottom:20px;
+    font-family: 'Cantarell', sans-serif;
+}
+.col-lg-4 h4{
+    font-family: 'Cantarell', sans-serif;
 }
 .col-md-4{
     padding-top:50px;
@@ -42,6 +50,9 @@
 }
 .portfolios{
     float: left;
+}
+#portfolio{
+    font-family: 'Cantarell', sans-serif;
 }
 .icons{
     padding-right: 200px;

@@ -38,8 +38,11 @@ $("#des").on("click",function(){
             $("#prod").toggle();
             $("#icon3").show();
             }); 
+        var user
     $("#subscribe").click(function(){
-        alert("Thank you for support")    });               
+        var userName = document.getElementById("mce-NAME").value;
+        alert(userName + " we have received your message. Thank you for reaching out to us.");
+        });               
 // $("#icon2").click(function(){
 //     $("#dev").show();
 //     $("icon2").hide();
