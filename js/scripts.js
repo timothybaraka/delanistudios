@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $("#subscribe").click(function(){
-        prompt("we have received your message thank you for reaching out to us");
+        
     });
 
 
@@ -37,7 +37,9 @@ $("#des").on("click",function(){
             $("#icon3").hide();
             $("#prod").toggle();
             $("#icon3").show();
-            });        
+            }); 
+    $("#subscribe").click(function(){
+        alert("Thank you for support")    });               
 // $("#icon2").click(function(){
 //     $("#dev").show();
 //     $("icon2").hide();
