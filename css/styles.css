@@ -47,8 +47,8 @@
     padding-right: 200px;
 }
 #des{
-    display: none;
     text-align: center;
+    display:none;
 }
 #dev{
     display:none;
@@ -57,6 +57,12 @@
 #prod{
     display:none;
     text-align: center;
+}
+.row{
+    padding-top: 20px;
+}
+.portfolios{
+    padding-top:20px ;
 }
 .cont1:hover .overlay1{
     opacity:1;
